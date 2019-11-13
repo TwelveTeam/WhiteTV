@@ -50,7 +50,11 @@ ul{
   width: 150px;
   height: 200px;
   padding: 10px 0px 5px;
-  margin-right: 100px;
-  margin-top:100px ;
+  margin-right: 80px;
+  margin-top:20px ;
   line-height: 1.5;
+}
+.dw{
+  position: fixed;
+  top: 0;
 }
