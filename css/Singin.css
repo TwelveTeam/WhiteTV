@@ -18,3 +18,12 @@ ul{
     width: 100px;
     border-right: 5px solid;
 }
+.text span{
+   position: relative;
+   top: -8px;
+}
+.text #tile{
+    position: relative;
+   top: -8px;
+}
+
